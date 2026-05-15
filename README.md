@@ -10,7 +10,7 @@
          A L I   M A Z A R I
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Associate+DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;Building+CI%2FCD+Pipelines+%26+GitOps+Workflows;Exploring+Agentic+AI+for+DevOps;BBIT+Graduate+%40+UET+Lahore+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Associate+DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;Building+CI%2FCD+Pipelines+%26+GitOps+Workflows;Exploring+Agentic+AI+for+DevOps+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
 
 </div>
 
@@ -127,8 +127,8 @@ contact:    "haidermazari83@gmail.com"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=haideralimazari&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haideralimazari&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=haideralimazari&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=haideralimazari&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41" width="49%" />
 
 </div>
 
@@ -154,7 +154,5 @@ contact:    "haidermazari83@gmail.com"
 │   everything."                                           │
 └──────────────────────────────────────────────────────────┘
 ```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=haideralimazari&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
