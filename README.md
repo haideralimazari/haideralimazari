@@ -1,15 +1,4 @@
 <div align="center">
-
-```
-██╗  ██╗ █████╗ ██╗██████╗ ███████╗██████╗
-██║  ██║██╔══██╗██║██╔══██╗██╔════╝██╔══██╗
-███████║███████║██║██║  ██║█████╗  ██████╔╝
-██╔══██║██╔══██║██║██║  ██║██╔══╝  ██╔══██╗
-██║  ██║██║  ██║██║██████╔╝███████╗██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝
-         A L I   M A Z A R I
-```
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Associate+DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;Building+CI%2FCD+Pipelines+%26+GitOps+Workflows;Exploring+Agentic+AI+for+DevOps+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
 
 </div>
