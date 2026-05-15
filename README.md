@@ -1,5 +1,6 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Associate+DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;Building+CI%2FCD+Pipelines+%26+GitOps+Workflows;Exploring+Agentic+AI+for+DevOps+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Associate+DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;Building+CI%2FCD+Pipelines+%26+GitOps+Workflows;Exploring+Agentic+AI+for+DevOps)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,12 +14,8 @@ title:      "Associate DevOps Engineer"
 education:  "BBIT — UET Lahore"
 location:   "Lahore, Pakistan"
 contact:    "haidermazari83@gmail.com"
+currently:  "Hands-on with EKS, Terraform, ArgoCD & Agentic AI"
 ```
-
-> *"I bridge the gap between technical operations and business efficiency —*
-> *automate what's repetitive, monitor what matters, secure what's deployed."*
-
----
 
 ## `$ cat tech_stack.yaml`
 
@@ -143,5 +140,6 @@ contact:    "haidermazari83@gmail.com"
 │   everything."                                           │
 └──────────────────────────────────────────────────────────┘
 ```
+
 
 </div>
