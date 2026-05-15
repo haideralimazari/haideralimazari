@@ -20,9 +20,9 @@
 
 ```yaml
 name:       "Haider Ali Mazari"
-title:      "DevOps Engineer"
+title:      "Associate DevOps Engineer"
 education:  "BBIT — UET Lahore"
-location:   "Lahore, Pakistan "
+location:   "Lahore, Pakistan"
 contact:    "haidermazari83@gmail.com"
 ```
 
@@ -127,8 +127,8 @@ contact:    "haidermazari83@gmail.com"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=haideralimazari&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=haideralimazari&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41" width="49%" />
 
 </div>
 
@@ -138,7 +138,7 @@ contact:    "haidermazari83@gmail.com"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haider-ali-mazari-90b018261)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haidermazari83@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haideralimazari)
 
@@ -155,6 +155,6 @@ contact:    "haidermazari83@gmail.com"
 └──────────────────────────────────────────────────────────┘
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=haideralimazari&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
